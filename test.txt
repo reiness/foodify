@@ -1,5 +1,0 @@
-D:/college/coding projects/YOLO-Annotation-Tool/TwoLabelsTest/Bawang merah_18.jpg
-D:/college/coding projects/YOLO-Annotation-Tool/TwoLabelsTest/Bawang merah_9.jpg
-D:/college/coding projects/YOLO-Annotation-Tool/TwoLabelsTest/Bawang putih_18.jpg
-D:/college/coding projects/YOLO-Annotation-Tool/TwoLabelsTest/Bawang putih_27.jpg
-D:/college/coding projects/YOLO-Annotation-Tool/TwoLabelsTest/Bawang putih_8.jpg
