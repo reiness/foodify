@@ -7,3 +7,5 @@ val: images/val  # val images (relative to 'path')
 names:
   0: Bawang merah
   1: Bawang putih
+  2: Cabai hijau
+  3: Cabai merah
